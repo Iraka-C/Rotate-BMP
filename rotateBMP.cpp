@@ -1,6 +1,7 @@
 /*
   By Iraka (iraka@pku.edu.cn)
   written in C++, accept a command param. as filename
+  Only accept 24-bit Win format bitmap image!
 */
 
 #define _CRT_SECURE_NO_DEPRECATE
